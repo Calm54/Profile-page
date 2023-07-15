@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background: #080808;
     color: snow;
@@ -428,3 +432,8 @@ nav .fas{
    }
 }
 
+#msg{
+    color: #61b752;
+    margin-top: -40px;
+    display: block;
+}
